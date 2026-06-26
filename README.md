@@ -100,3 +100,8 @@ A collection of side projects exploring ML, CV, data science, and automation:
 | [🔗 The Theory of Handshakes](https://github.com/KrivchenkoEgor/the-theory-of-handshakes) | Recursive OSINT parsing of company relationship networks from checko.ru |
 | [📹 VStarcam Converter](https://github.com/KrivchenkoEgor/VStarcam-H.264-MP4-Converter) | Convert .h264 IP camera footage to standard MP4 |
 | [🩻 DICOM to Video](https://github.com/KrivchenkoEgor/DICOM-to-Video-Converter) | Convert CT/MRI DICOM series to video |
+| [👶 Find a Photo of Your Child](https://github.com/KrivchenkoEgor/Find-a-photo-of-your-child) | Find photos with specific person among thousands using InsightFace |
+| [🎯 findtits](https://github.com/KrivchenkoEgor/findtits) | YOLO11 custom object detection — educational example |
+| [🏋️ trainingyolo](https://github.com/KrivchenkoEgor/trainingyolo) | YOLO training launcher and computer vision tutorials |
+| [🔄 opencode-proxy-agentrouter](https://github.com/KrivchenkoEgor/opencode-proxy-agentrouter) | Agent routing proxy for LLM tool orchestration |
+| [📥 VK Video Download](https://github.com/KrivchenkoEgor/VK-Video-Download) | ⑂ Fork — download videos from VK |
