@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/%D0%B5%D0%B3%D0%BE%D1%80-%D0%BA%D1%80%D0%B8%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-91bbbb129/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/egorkrivchenko">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
 </div>
 
 <div align="center">
@@ -33,7 +30,7 @@ I'm a developer passionate about **geospatial analysis** and **retail business i
 - :telescope: Building tools for location-based retail analytics — geocoding, POI search, demographic modeling
 - :seedling: Deep-diving into OpenStreetMap (Overpass API), geocoding APIs, and demographic analysis
 - :zap: Creating Python applications with Streamlit for interactive data exploration
-- :mailbox: Reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B5%D0%B3%D0%BE%D1%80-%D0%BA%D1%80%D0%B8%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-91bbbb129/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/egorkrivchenko)
+- :mailbox: Reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B5%D0%B3%D0%BE%D1%80-%D0%BA%D1%80%D0%B8%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-91bbbb129/)
 
 ---
 
