@@ -2,63 +2,84 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/%D0%B5%D0%B3%D0%BE%D1%80-%D0%BA%D1%80%D0%B8%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-91bbbb129/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=KrivchenkoEgor&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+</p>
 
 <h1 align="center">
-  hey there
+  Егор Кривченко
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<h3 align="center">CIO / CDTO / IT Director | 21+ years | ByteDance, X5 Retail, ER-Telecom</h3>
+
+---
+
+### :bust_in_silhouette: About Me
+
+IT executive with 21+ years of experience building and scaling technology functions in retail, telecom, manufacturing, and internet companies. Managed teams up to **560 people** and budgets up to **1 B RUB**.
+
+- 🔭 **Currently**: Head of R&D at **ByteDance** (douyin, tiktok, capcut) — leading cross-regional teams (Russia, India, Africa, EU) in content moderation AI and computer vision
+- 🏢 **Previously**: IT Director at **ER-Telecom** (7 engineering teams, SAP migration, BSS 1B RUB), Development Director at **Run-Plant** (smart manufacturing, IoT, 70 devs across 4 countries), IT Director at **X5 Retail Group / Pyaterochka** (launch from zero to 108 stores)
+- 🌱 **Expertise**: Digital transformation, Lean/Agile, ERP (SAP, 1C), ML/AI, IoT, microservices, CI/CD, strategic IT leadership
+- 🧠 **Languages**: Russian (native) · English (B1) · Chinese (B1)
+- 📫 **Reach me**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B5%D0%B3%D0%BE%D1%80-%D0%BA%D1%80%D0%B8%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-91bbbb129/)
+
+---
+
+### :toolbox: Core Competencies
+
+| Area | Technologies & Methods |
+|------|----------------------|
+| **Digital Transformation** | IT strategy, organizational design, Lean, Agile, Scrum, SAFe |
+| **Enterprise Systems** | SAP (ERP, BI, HANA), 1C, Netcracker BSS/OSS, Camunda BPMS |
+| **Infrastructure & Cloud** | Kubernetes (1000+ containers), OpenNebula, CI/CD, microservices |
+| **Data & ML** | Clickhouse, PostgreSQL, neural networks, computer vision, BI systems |
+| **IoT & Hardware** | LoRaWAN, STM32, embedded systems, industrial automation |
+| **Retail & Telco** | Billing systems, loyalty programs, EDI, eTOM, retail automation |
+| **Leadership** | Building teams 10→560, international hiring (Asia, LATAM, EU), internal dev schools |
+
+---
+
+### :briefcase: Career Highlights
+
+| Period | Company | Role |
+|--------|---------|------|
+| 2021–now | **ByteDance** (China) | Head of R&D — douyin, tiktok, capcut, didi, ixigua |
+| 2019–now | **ER-Telecom** (Novosibirsk) | IT Director — 7 teams, 68+ people, SAP, BSS 1B RUB |
+| 2018–2019 | **Run-Plant** (SPb + China) | Development Director — smart manufacturing, 70 devs, 30K users |
+| 2015–2018 | **NPM-Group** (Novosibirsk) | IT Director — milkbox, yotask, beerbox, IoT hardware |
+| 2005–2015 | **X5 Retail Group / Pyaterochka** (Novosibirsk) | IT Director — 0→108 stores, M&A, loyalty programs |
+
+---
+
+### :hammer_and_wrench: Tech Stack
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="K8s" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clickhouse/clickhouse-original-wordmark.svg" title="Clickhouse" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sap/sap-original.svg" title="SAP" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### :man_technologist: About Me
-
-I'm a Python developer working at the intersection of **computer vision**, **data science**, and **automation**.
-
-- :eye: Building ML systems for real-time drone audio detection and YOLO-based computer vision
-- :hospital: Medical imaging tools — automatic Cobb angle measurement for scoliosis, DICOM to video conversion
-- :chart_with_upwards_trend: Data science & analytics — RFM segmentation, market basket analysis, retail location intelligence
-- :mag: OSINT & data parsing — recursive company relationship networks from open data
-- :wrench: Utility tools — IP camera video conversion, photo finder by face, VK video downloader
-- :mailbox: Reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B5%D0%B3%D0%BE%D1%80-%D0%BA%D1%80%D0%B8%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-91bbbb129/)
-
----
-
-### :hammer_and_wrench: Languages and Tools
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :fire: My Stats
+### :fire: GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrivchenkoEgor&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -66,7 +87,9 @@ I'm a Python developer working at the intersection of **computer vision**, **dat
 
 ---
 
-### :books: My Projects
+### :rocket: Personal Projects
+
+A collection of side projects exploring ML, CV, data science, and automation:
 
 | Project | Description |
 |---------|-------------|
@@ -78,5 +101,3 @@ I'm a Python developer working at the intersection of **computer vision**, **dat
 | [🔗 The Theory of Handshakes](https://github.com/KrivchenkoEgor/the-theory-of-handshakes) | Recursive OSINT parsing of company relationship networks from checko.ru |
 | [📹 VStarcam Converter](https://github.com/KrivchenkoEgor/VStarcam-H.264-MP4-Converter) | Convert .h264 IP camera footage to standard MP4 |
 | [🩻 DICOM to Video](https://github.com/KrivchenkoEgor/DICOM-to-Video-Converter) | Convert CT/MRI DICOM series to video |
-| [👶 Find a Photo of Your Child](https://github.com/KrivchenkoEgor/Find-a-photo-of-your-child) | Find photos with specific person among thousands of pictures |
-| [🎓 YOLO Training](https://github.com/KrivchenkoEgor/trainingyolo) | YOLO training launcher and computer vision tutorials |
