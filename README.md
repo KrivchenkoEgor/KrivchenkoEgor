@@ -92,6 +92,7 @@ A collection of side projects exploring ML, CV, data science, and automation:
 
 | Project | Description |
 |---------|-------------|
+| [🤖 GigaCheck — AI Text Detector](https://github.com/KrivchenkoEgor/gigacheck-extension) | Browser extension for Yandex Browser (Chromium): detects whether a text was written by a human or AI via Sber GigaCheck, with AI/Human/Mixed probabilities |
 | [🏪 Retail Location Analyzer](https://github.com/KrivchenkoEgor/retail_location_analyzer) | Geocoding, buildings/apartments, competitors via OSM, demographics, my-gkh.ru enrichment |
 | [🛸 DroneDet](https://github.com/KrivchenkoEgor/drondet) | Real-time ML-based drone detection from audio signals |
 | [🦴 Cobb Angle](https://github.com/KrivchenkoEgor/Cobb-angle) | Automatic scoliosis measurement from spinal X-rays |
