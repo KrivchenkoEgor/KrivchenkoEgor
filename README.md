@@ -20,7 +20,7 @@
 
 ### :bust_in_silhouette: About Me
 
-IT executive with 21+ years of experience building and scaling technology functions in retail, telecom, manufacturing, and internet companies. Managed teams up to **560 people** and budgets up to **10 B RUB**.
+IT executive with 21+ years of experience building and scaling technology functions in retail, telecom, manufacturing, and internet companies. Managed teams up to **560 people** and budgets up to **500 M 💵**.
 
 - 🔭 **Currently**: Head of R&D at **ByteDance** (douyin, tiktok, capcut) — leading cross-regional teams (Russia, India, Africa, EU) in content moderation AI and computer vision
 - 🏢 **Previously**: IT Director at **ER-Telecom** (7 engineering teams, SAP migration, BSS 1B RUB), Development Director at **Run-Plant** (smart manufacturing, IoT, 70 devs across 4 countries), IT Director at **X5 Retail Group / Pyaterochka** (launch from zero to 108 stores)
