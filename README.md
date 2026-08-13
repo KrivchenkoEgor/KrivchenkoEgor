@@ -92,6 +92,7 @@ A collection of side projects exploring ML, CV, data science, and automation:
 
 | Project | Description |
 |---------|-------------|
+| [🗺️ GeoPoint Analyzer](https://github.com/KrivchenkoEgor/geo-point-analyzer) | Territory analysis by coordinates: residential buildings by floor count and supermarkets within a radius, interactive map with building highlighting (OSM/Overpass API) |
 | [🤖 GigaCheck — AI Text Detector](https://github.com/KrivchenkoEgor/gigacheck-extension) | Browser extension for Yandex Browser (Chromium): detects whether a text was written by a human or AI via Sber GigaCheck, with AI/Human/Mixed probabilities |
 | [🏪 Retail Location Analyzer](https://github.com/KrivchenkoEgor/retail_location_analyzer) | Geocoding, buildings/apartments, competitors via OSM, demographics, my-gkh.ru enrichment |
 | [🛸 DroneDet](https://github.com/KrivchenkoEgor/drondet) | Real-time ML-based drone detection from audio signals |
