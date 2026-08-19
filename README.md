@@ -49,7 +49,7 @@ IT executive with 21+ years of experience building and scaling technology functi
 | Period | Company | Role |
 |--------|---------|------|
 | 2021–now | **ByteDance** (China) | Head of R&D — douyin, tiktok, capcut, didi, ixigua |
-| 2019–now | **Novotelecom / ER-Telecom** (Novosibirsk) | IT Director — 7 teams, 68+ people, SAP, BSS 1B RUB |
+| 2019–2021 | **Novotelecom / ER-Telecom** (Novosibirsk) | IT Director — 7 teams, 68+ people, SAP, BSS 1B RUB |
 | 2018–2019 | **Run-Plant** (SPb + China) | Development Director — smart manufacturing, 70 devs, 30K users |
 | 2015–2018 | **NPM-Group** (Novosibirsk) | IT Director — milkbox, yotask, beerbox, IoT hardware |
 | 2005–2015 | **NTS Holding** (Pyaterochka / Paterson franchisee, Novosibirsk) | IT Director — 0→108 stores, M&A, loyalty programs |
