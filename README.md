@@ -83,6 +83,7 @@ A collection of side projects exploring ML, CV, data science, and automation:
 
 | Project | Description |
 |---------|-------------|
+| [🍲 Recipe Shopping List MCP](https://github.com/KrivchenkoEgor/mcp-recipe-shopping-list) | MCP server: parse recipes from food.ru, find products on magnit.ru, build a shopping list with prices and Excel export (FastMCP + Playwright). Training case for retail category managers |
 | [🛒 Achan Card Enrichment](https://github.com/KrivchenkoEgor/achan-card-enrichment) | Enrich product cards with missing attributes: match internal product names to Auchan.ru cards via fuzzy scoring (RapidFuzz). Training case for category managers |
 | [🗺️ GeoPoint Analyzer](https://github.com/KrivchenkoEgor/geo-point-analyzer) | Territory analysis by coordinates: residential buildings by floor count and supermarkets within a radius, interactive map with building highlighting (OSM/Overpass API) |
 | [🤖 GigaCheck — AI Text Detector](https://github.com/KrivchenkoEgor/gigacheck-extension) | Browser extension for Yandex Browser (Chromium): detects whether a text was written by a human or AI via Sber GigaCheck, with AI/Human/Mixed probabilities |
