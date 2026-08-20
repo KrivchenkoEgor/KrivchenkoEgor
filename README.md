@@ -71,7 +71,7 @@ IT executive with 21+ years of experience building and scaling technology functi
 
 ### :fire: GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrivchenkoEgor&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KrivchenkoEgor&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrivchenkoEgor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
