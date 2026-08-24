@@ -83,6 +83,7 @@ A collection of side projects exploring ML, CV, data science, and automation:
 
 | Project | Description |
 |---------|-------------|
+| [🗺 Yandex Maps Reviews Scraper](https://github.com/KrivchenkoEgor/yandex-maps-reviews-scraper) | Download all reviews from Yandex Maps by short or full link: Playwright API interception, human-like scrolling, antibot, 24h cache (FastAPI + Gradio). Tested on 222 & 600 reviews |
 | [🍲 Recipe Shopping List MCP](https://github.com/KrivchenkoEgor/mcp-recipe-shopping-list) | MCP server: parse recipes from food.ru, find products on magnit.ru, build a shopping list with prices and Excel export (FastMCP + Playwright). Training case for retail category managers |
 | [🛒 Achan Card Enrichment](https://github.com/KrivchenkoEgor/achan-card-enrichment) | Enrich product cards with missing attributes: match internal product names to Auchan.ru cards via fuzzy scoring (RapidFuzz). Training case for category managers |
 | [🗺️ GeoPoint Analyzer](https://github.com/KrivchenkoEgor/geo-point-analyzer) | Territory analysis by coordinates: residential buildings by floor count and supermarkets within a radius, interactive map with building highlighting (OSM/Overpass API) |
