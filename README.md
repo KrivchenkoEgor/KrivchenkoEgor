@@ -101,3 +101,4 @@ A collection of side projects exploring ML, CV, data science, and automation:
 | [🏋️ trainingyolo](https://github.com/KrivchenkoEgor/trainingyolo) | YOLO training launcher and computer vision tutorials |
 | [🔄 opencode-proxy-agentrouter](https://github.com/KrivchenkoEgor/opencode-proxy-agentrouter) | Agent routing proxy for LLM tool orchestration |
 | [📥 VK Video Download](https://github.com/KrivchenkoEgor/VK-Video-Download) | ⑂ Fork — download videos from VK |
+| [📚 Physics 7 — база знаний для ИИ-репетитора](https://github.com/KrivchenkoEgor/literatura) | PDF-скан учебника физики 7 класса (Перышкин, 239 стр.) → Markdown-база знаний: OCR + ручная вычитка, 76 файлов по параграфам, эталонные ответы, 50 задач к экзамену |
