@@ -23,7 +23,7 @@
 IT executive with 21+ years of experience building and scaling technology functions in retail, telecom, manufacturing, and internet companies. Managed teams up to **560 people** and budgets up to **500 M 💵**.
 
 - 🔭 **Currently**: Head of R&D at **ByteDance** (douyin, tiktok, capcut) — leading cross-regional teams (Russia, India, Africa, EU) in content moderation AI and computer vision
-- 🏢 **Previously**: IT Director at **Novotelecom / ER-Telecom** (7 engineering teams, SAP migration, BSS 1B RUB), Development Director at **Run-Plant** (smart manufacturing, IoT, 70 devs across 4 countries), IT Director at **NTS Holding** (Pyaterochka / Paterson franchisee, launch from zero to 320 stores)
+- 🏢 **Previously**: IT Director at **Novotelecom / ER-Telecom** (7 engineering teams, SAP migration, BSS 1B RUB), Development Director at **Run-Plant** (smart manufacturing, IoT, 70 devs across 4 countries), IT Director at **NTS Holding** (Pyaterochka / Paterson franchisee / Bahetle / Dobryanka, launch from zero to 320 stores)
 - 🌱 **Expertise**: Digital transformation, Lean/Agile, ERP (SAP, 1C), ML/AI, IoT, microservices, CI/CD, strategic IT leadership
 - 🧠 **Languages**: Russian (native) · English (B1) · Chinese (B1)
 - 📫 **Reach me**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B5%D0%B3%D0%BE%D1%80-%D0%BA%D1%80%D0%B8%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-91bbbb129/)
@@ -52,7 +52,7 @@ IT executive with 21+ years of experience building and scaling technology functi
 | 2019–2021 | **Novotelecom / ER-Telecom** (Novosibirsk) | IT Director — 7 teams, 68+ people, SAP, BSS 1B RUB |
 | 2018–2019 | **Run-Plant** (SPb + China) | Development Director — smart manufacturing, 70 devs, 30K users |
 | 2015–2018 | **NPM-Group** (Novosibirsk) | IT Director — milkbox, yotask, beerbox, IoT hardware |
-| 2005–2015 | **NTS Holding** (Pyaterochka / Paterson franchisee, Novosibirsk) | IT Director — 0→320 stores, M&A, loyalty programs |
+| 2005–2015 | **NTS Holding** (Pyaterochka / Paterson franchisee / Bahetle / Dobryanka, Novosibirsk) | IT Director — 0→320 stores, M&A, loyalty programs |
 
 ---
 
